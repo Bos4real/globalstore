@@ -1,0 +1,2 @@
+# globalstore
+global store international
